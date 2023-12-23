@@ -13,7 +13,7 @@
 <div align="left"> 
   <h2> Languages and Tools:</h2>
   <div>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge" title="JavaScript" alt="JavaScript" width="80" height="40"/>&nbsp;
   </div>
 
 <!--
