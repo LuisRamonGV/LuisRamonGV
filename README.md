@@ -9,7 +9,9 @@
       alt="Linkedin Badge" />
   </a>
 </div>
-- - -
+
+<hr>
+
 <div align="left"> 
   <h2> Languages and Tools:</h2>
   <div>
@@ -31,7 +33,6 @@
     <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge" title="MySQL" alt="MySQL" width="110" height="30"/>&nbsp;
     <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=for-the-badge" title="MongoDB" alt="MongoDB" width="110" height="30"/>&nbsp;
     
-    ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=for-the-badge)
   </div>
 
 <!--
