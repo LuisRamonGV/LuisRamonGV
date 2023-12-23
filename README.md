@@ -27,12 +27,11 @@
     <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=fff&style=for-the-badge" title="Pandas" alt="Pandas" width="110" height="30"/>&nbsp;
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=for-the-badge" title="C++" alt="C++" width="110" height="30"/>&nbsp;
     <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=fff&style=for-the-badge" title="OpenCV" alt="OpenCV" width="110" height="30"/>&nbsp;
-    <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff&style=for-the-badge" title="Postman" alt="Postman" width="110" height="30"/>&nbsp;
-    <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff&style=for-the-badge" title="Git" alt="Git" width="110" height="30"/>&nbsp;
     <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge" title="MySQL" alt="MySQL" width="110" height="30"/>&nbsp;
     <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=for-the-badge" title="MongoDB" alt="MongoDB" width="110" height="30"/>&nbsp;
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=for-the-badge" title="VSCode" alt="VSCode" width="110" height="30"/>&nbsp;
     <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge" title="Git" alt="Git" width="110" height="30"/>&nbsp;
+    <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff&style=for-the-badge" title="Postman" alt="Postman" width="110" height="30"/>&nbsp;
     
 
     
