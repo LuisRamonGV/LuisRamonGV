@@ -9,6 +9,12 @@
       alt="Linkedin Badge" />
   </a>
 </div>
+---
+<div align="left"> 
+  <h2> Languages and Tools:</h2>
+  <div>
+    <img src="https://img.shields.io/badge/logo-javascript-blue?logo=javascript" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  </div>
 
 <!--
 **LuisRamonGV/LuisRamonGV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
